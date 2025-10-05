@@ -40,5 +40,4 @@ The final license for our code will be posted at release.
 A `CITATION.cff` and a BibTeX entry will be added upon acceptance.
 
 ## Contact
-Please open an issue for questions.  
-Email: lcwdzkd@163.com
+Please open an issue for questions. 
